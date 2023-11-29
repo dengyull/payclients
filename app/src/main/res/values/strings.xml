@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">payclients</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Register_Button">Register</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="prompt_email">emails</string>
+    <string name="Signin_Button">Login</string>
+</resources>
