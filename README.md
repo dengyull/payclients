@@ -1,7 +1,7 @@
 # QR Code-Based Mobile Payment System for Android
 
 ## Overview
-This Android application implements a QR code-based mobile payment system. Leveraging the BouncyCastle library for enhanced security, the app supports user registration, balance management, and QR code-enabled payment functionalities.
+This Android application implements [a QR code-based mobile payment system](https://ieeexplore.ieee.org/document/7311922). Leveraging the BouncyCastle library for enhanced security, the app supports user registration, balance management, and QR code-enabled payment functionalities.
 
 ## Features
 - **User Registration**: Registration process for new users via a remote service.
