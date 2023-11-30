@@ -17,7 +17,7 @@ This Android application implements [a QR code-based mobile payment system](http
 ## Installation
 1. Clone the repository:
 2. Open the project in Android Studio:
-3. 
+3. Replace server IP with your own, and use your own keypair.
 ## Building the Application
 Build the app using Android Studio:
 1. Navigate to `Build` -> `Make Project` to build the app.
